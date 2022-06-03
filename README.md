@@ -11,6 +11,6 @@
 3. 
 <center>
   <img
-    src="금성.PNG"
+    src="금성궤도.PNG"
   />
 </center>
